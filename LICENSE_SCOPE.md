@@ -1,0 +1,3 @@
+# License scope
+
+The adjacent MIT `LICENSE` is proposed only for the eligible original contributions included in this repository and identified in `FILE_MANIFEST.tsv` as owner-confirmation candidate, project-authored build configuration, or new owner-directed handoff documentation. The grant is limited to copyrightable material the owner is entitled to license. It does not apply to third-party dependencies or their interfaces, trademarks, ROMs, game-derived/generated content, excluded research artifacts, or other projects. The file classifications and owner declaration are not independent legal clearance.
